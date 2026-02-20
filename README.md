@@ -24,10 +24,3 @@ A supporting utility for SwiftSearch that generates random files with random con
 A fully working, turn-based Pacman game that runs entirely in the terminal, designed as my final project for Data Structures & Algorithms.
 
 ---
-
-## GitHub Stats
-
-![Bryce's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryce-Hart1&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryce-Hart1&layout=compact&theme=github_dark&hide_border=true)
-
----
