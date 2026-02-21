@@ -1,6 +1,6 @@
 # Hi, I'm Bryce :)
 
-Im a soon to be software enginner that has a love for backend design. Check out my projects!
+Im a soon to be software engineer that has a love for backend design. Check out my projects!
 ---
 
 ## Skills & Tech Stack
