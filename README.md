@@ -33,7 +33,7 @@ A fast, terminal-based multi-file search tool built as a simple way to pull data
 ### [File Generator (Python)](https://github.com/brycehart/file-generator)
 A supporting utility for SwiftSearch that generates random files with random contents for testing and benchmarking.
 
-### [Terminal Pacman (C) ](https://github.com/brycehart/terminal-pacman)
+### [Terminal Pacman (C) ](https://github.com/Bryce-Hart1/finalProject4-25)
 A fully working, turn-based Pacman game that runs entirely in the terminal, designed as my final project for Data Structures & Algorithms.
 
 ### [Threadsafe Data Structures (C++) ](https://github.com/Bryce-Hart1/Threadsafe-data-structures)
