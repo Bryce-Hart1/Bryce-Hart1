@@ -36,7 +36,7 @@ A supporting utility for SwiftSearch that generates random files with random con
 ### [Terminal Pacman (C) ](https://github.com/Bryce-Hart1/finalProject4-25)
 A fully working, turn-based Pacman game that runs entirely in the terminal, designed as my final project for Data Structures & Algorithms.
 
-### [Threadsafe Data Structures (C++) ](https://github.com/Bryce-Hart1/Threadsafe-data-structures)
-A list of common data structures reimplemented from scratch with multithreaded support. 
+### [Mylib (C++, Rust) ](https://github.com/Bryce-Hart1/Threadsafe-data-structures)
+Some useful classes/algorithms that I used in the development of my other projects
 
 ---
