@@ -1,6 +1,6 @@
 # Hi, I'm Bryce :)
 
-Im a soon to be software engineer that has a love for multi-threaded design and operating systems. Check out my projects!
+Im a soon to be software engineer that has a love for multi-threaded applications, bare metal design and operating systems. Check out my projects!
 ---
 [My LinkedIn](https://www.linkedin.com/in/bryce-hart1/)
 
@@ -10,7 +10,7 @@ Im a soon to be software engineer that has a love for multi-threaded design and 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Technologies 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
@@ -19,6 +19,7 @@ Im a soon to be software engineer that has a love for multi-threaded design and 
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ## Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
