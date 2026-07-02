@@ -5,11 +5,9 @@ Im a soon to be software engineer that has a love for multi-threaded application
 [My LinkedIn](https://www.linkedin.com/in/bryce-hart1/)
 
 ## Languages
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Technologies 
@@ -19,7 +17,6 @@ Im a soon to be software engineer that has a love for multi-threaded application
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 ## Operating Systems
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
@@ -31,13 +28,15 @@ Im a soon to be software engineer that has a love for multi-threaded application
 ### [swiftSearch (C++)](https://github.com/Bryce-Hart1/swiftSearch)
 A fast, terminal-based multi-file search tool built as a simple way to pull data from however many files you could ever want.
 
-### [File Generator (Python)](https://github.com/brycehart/file-generator)
-A supporting utility for SwiftSearch that generates random files with random contents for testing and benchmarking.
+### [CPU Emulator (Rust, C++)](https://github.com/Bryce-Hart1/CPU_Emulator)
+A custom cpu emulator designed to show the inner workings of a CPU in my own custom ASM like language - EMU. Build anything 
+you could want on "bare hardware". Rendered in realtime by raylib.
 
 ### [Terminal Pacman (C) ](https://github.com/Bryce-Hart1/finalProject4-25)
 A fully working, turn-based Pacman game that runs entirely in the terminal, designed as my final project for Data Structures & Algorithms.
 
 ### [Mylib (C++, Rust) ](https://github.com/Bryce-Hart1/Threadsafe-data-structures)
-Some useful classes/algorithms that I used in the development of my other projects
+Some useful classes/algorithms that I used in the development of my other projects, made to run on bare metal and OS supported 
+but lightweight devices.
 
 ---
