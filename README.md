@@ -15,12 +15,13 @@ Im a software engineer that has a love for multi-threaded applications, bare met
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-## Operating Systems
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+# Tools and systems
+![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ## Recent Work: 
 
 ### [Castle+ (C++)](https://github.com/Bryce-Hart1/castle_plus)
