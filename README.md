@@ -37,7 +37,7 @@ you could want on "bare hardware". Rendered in realtime by raylib.
 ### [swiftSearch (C++)](https://github.com/Bryce-Hart1/swiftSearch)
 A fast, terminal-based multi-file search tool built as a simple way to pull data from however many files you could ever want.
 
-### [Mylib (C++, Rust) ](https://github.com/Bryce-Hart1/Threadsafe-data-structures)
+### [Bstd (C++, Rust) ](https://github.com/Bryce-Hart1/Threadsafe-data-structures)
 Some useful classes/algorithms that I used in the development of my other projects, made to run on bare metal and OS supported 
 but lightweight devices. Always being updated with new features.
 
