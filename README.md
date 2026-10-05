@@ -9,12 +9,6 @@ Im a software engineer that has a love for multi-threaded applications, bare met
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-## Technologies 
-![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 # Tools and systems
 ![Arch](https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
@@ -24,13 +18,14 @@ Im a software engineer that has a love for multi-threaded applications, bare met
 
 ## Recent Work: 
 
+### [Lincoln CodeLinc 11](https://github.com/Buttertails/cyb3er_pirates) 
+My teams project submission for the 2026 Lincoln Financial Hackathon. Provides Employees a chance to explore their dental insurance converage,
+making sure they get the most of their companies benefits by simplifying and streamlining the process.
+
 ### [Castle+ (C++)](https://github.com/Bryce-Hart1/castle_plus)
 A process supervisor I built for my Alpine Linux homelab. Handles server restarts, quarantines crashing/failing services, and 
 provides realtime hardware statistics.
 
-### [CPU Emulator (Rust, C++)](https://github.com/Bryce-Hart1/CPU_Emulator)
-A custom cpu emulator designed to show the inner workings of a CPU in my own custom ASM like language - EMU. Build anything 
-you could want on "bare hardware". Rendered in realtime by raylib.
 
 ## Other work:
 
