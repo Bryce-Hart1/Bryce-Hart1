@@ -27,7 +27,8 @@ Im a software engineer that has a love for multi-threaded applications, bare met
 
 ## Find me at:
 [My LinkedIn](https://www.linkedin.com/in/bryce-hart1/)
-[My website](Brycehart.dev)
+
+[My website](https://brycehart.dev/)
 
 ## Recent Work: 
 
