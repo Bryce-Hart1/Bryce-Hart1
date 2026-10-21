@@ -23,6 +23,17 @@ Im a software engineer that has a love for multi-threaded applications, bare met
 
 ## Recent Work: 
 
+### [Bowl Street Journal](https://github.com/zacharyz1234/Hack-NC-2026)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+A FastAPI and SQLite backend for a student budgeting game whose Gemini assistant reads financial data only through scoped, 
+revocable user consent and can never modify it. Integrated Capital One Nessie and Twelve Data behind the server with shared quote and history caches, 
+and computed price changes server-side so the assistant reports exact figures.
+
 ### [Lincoln CodeLinc 11](https://github.com/Buttertails/cyb3er_pirates) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
