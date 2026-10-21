@@ -2,7 +2,6 @@
 
 Im a software engineer that has a love for multi-threaded applications, bare metal design and operating systems. Check out my projects!
 ---
-[My LinkedIn](https://www.linkedin.com/in/bryce-hart1/)
 
 ## Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,6 +23,11 @@ Im a software engineer that has a love for multi-threaded applications, bare met
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+
+## Find me at:
+[My LinkedIn](https://www.linkedin.com/in/bryce-hart1/)
+[My website](Brycehart.dev)
 
 ## Recent Work: 
 
