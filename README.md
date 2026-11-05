@@ -32,7 +32,7 @@ Im a software engineer that has a love for multi-threaded applications, bare met
 
 ## Recent Work: 
 
-### [Bowl Street Journal](https://github.com/zacharyz1234/Hack-NC-2026)
+### [Bowl Street Journal](https://github.com/zacharyz1234/Hack-NC-2026) (HackNC 26 Winner!)
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -63,21 +63,34 @@ making sure they get the most of their companies benefits by simplifying and str
 A process supervisor I built for my Alpine Linux homelab. Handles server restarts, quarantines crashing/failing services, and 
 provides realtime hardware statistics.
 
+My other homelab projects:
 
-## Other work:
+#### [drawBridge](https://github.com/Bryce-Hart1/drawBridge)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### [swiftSearch (C++)](https://github.com/Bryce-Hart1/swiftSearch)
+Access the swiftSearch database behind castle. Upload, browse, stream or download photos, music, video, files and text notes from any of your devices.
+
+#### [swiftSearch (C++)](https://github.com/Bryce-Hart1/swiftSearch)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-A fast, terminal-based multi-file search tool built as a simple way to pull data from however many files you could ever want.
+swiftSearch is a crash-safe key/value store for files (photos, videos, text, raw bytes) that you talk to over HTTP. Every write is flushed to disk before the server answers, so a value it has acknowledged survives a crash or a power cut.
+
+## Other work:
 
 
-### [Bstd (C++, Rust) ](https://github.com/Bryce-Hart1/Threadsafe-data-structures)
+### [Bstd](https://github.com/Bryce-Hart1/Threadsafe-data-structures)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 Some useful classes/algorithms that I used in the development of my other projects, made to run on bare metal and OS supported 
 but lightweight devices. Always being updated with new features.
 
----
+
+### [Agil](https://github.com/Bryce-Hart1/Agil_app)
+![Swift](https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+Agil is an iOS gym app for logging lifts, cardio, and nutrition, built to keep tracking fast so it stays out of the way mid-workout. It turns real, finished workouts into progress you can see and enjoy: personal records, monthly recaps, achievements across seven tiers, a chess-themed rank, and a shareable profile card. It’s private by default. Ghost Mode keeps everything on-device, and Friends mode shares only your profile card, never your training history or body data.
